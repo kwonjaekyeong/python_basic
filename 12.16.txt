@@ -1,0 +1,36 @@
+12/16
+9월 빅데이터기사자격증
+
+
+http://192.168.0.119
+
+(파이썬)
+1. 제반환경 깔기
+노트북-아나콘다 다운받기(파이톤x)
+github에서 private 아이디 다운받기
+--학교 이메일로 받으면 무료
+gitscm 다운받기
+
+아나콘다 다운받을때 Anvanced options path체크 할것(주의)
+
+vs code설정
+-프로젝트를 원하는 위치에 폴더 생성
+  -python projects
+  -해당 폴더를 드레그 해서 vs코드에 드롭
+  -해당 위치로 vs 코드 재오픈
+-에디터 설정
+  - 파일->프리
+
+쥬피터-러신머닝
+
+1. git 프로젝트를 관리할 폴더 생성 및 이동
+ $ mkdir py_projects
+2. git상 프로젝트 다운로드
+[퍼블릭]
+$git clone https://github.com/kwonjaekyeong/python_basic.git
+$git clone https://ID;비번@github.com/kwonjaekyeong/python_basic.git
+3. vs code 에서 py_projects 오픈
+
+
+
+
